@@ -3,4 +3,4 @@ Understanding the global startup ecosystem by analyzing the rise of Unicorn comp
 
 ![Dashboard screenshot](Unicorns_analysis.jpg "Page 1")
 
-### Head over to <ins> Unicorns_Dataprep.ipynb </ins> (Jupyter Notebook) to take a look at Data extraction, preparation, and cleansing using Python
+### Head over to [Unicorns_Dataprep.ipynb](Unicorns_Dataprep.ipynb) (Jupyter Notebook) to take a look at Data extraction, preparation, and cleansing using Python
